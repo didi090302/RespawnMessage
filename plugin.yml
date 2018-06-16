@@ -1,0 +1,11 @@
+name: RespawnMessage
+version: 1.0
+author: didi090302
+
+main: de.didi090302.respawnmessage.Main
+
+commands:
+     rmreload:
+          description: Reload the RespawnMessage configuration!
+          aliases: [rmreload]
+          premissions: respawnmessage.reload
